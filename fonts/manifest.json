@@ -1,0 +1,22 @@
+{
+  "name": "Aldrich",
+  "family": "Aldrich",
+  "description": "Aldrich is a rounded yet squarely proportioned font that is reminiscent of early 20th Century gothic styles. With a solid stance and confident mono-weight strokes, Aldrich is a hardworking family with roots in Midwestern ethics. Documentation can be found at www.madtype.com and to contribute to the project contact Matthew Desmond at mattdesmond@gmail.com",
+  "author": "MADType",
+  "website": "",
+  "category": "Sans Serif",
+  "tags": [
+    "sans-serif",
+    "google"
+  ],
+  "languages": [
+    "en"
+  ],
+  "styles": [
+    "Regular"
+  ],
+  "formats": [
+    "ttf"
+  ],
+  "license": "SIL Open Font License 1.1"
+}
